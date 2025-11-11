@@ -1,0 +1,15 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Dataset und große Dateien
+data/
+saved_models/
+
+# VSCode oder andere IDE
+.vscode/
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
